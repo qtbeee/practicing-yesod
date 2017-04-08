@@ -1,0 +1,7 @@
+<div .container>
+    <div .row>
+        <h1 .header>
+            Class Search
+        <input type=search>
+        <button .btn>Search (it doesn't work though...yet)
+        <button .btn>Browse Classes
